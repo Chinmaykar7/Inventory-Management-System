@@ -352,12 +352,4 @@ Click **📥 Download Data** in the navbar to export all 4 tables as a timestamp
 This project is built for educational and academic purposes.  
 Dataset sourced from [Kaggle](https://www.kaggle.com/) — historical inventory and sales data.
 
----
 
-<p align="center">
-  Built with ❤️ using PHP, MySQL, and a passion for data-driven inventory management.
-</p>
-=======
-# Inventory-Management-System
-Built an end-to-end demand forecasting web application to help  small vendors and local shop owners optimize their inventory  restocking decisions.
->>>>>>> fbf769d96b66238673c405d51e0bc9cdac241cf4
