@@ -1,0 +1,12 @@
+Transaction Master.csv:
+['Unnamed: 0', 'Stock Code', 'Order ID', 'Category', 'Sub Category', 'City', 'Region', 'Sales', 'Discount', 'Profit', 'Day of week', 'IsWeekend', 'Weather', 'Unit Cost', 'Units Sold', 'Date', 'Week', 'Rolling_avg_4weeks', 'Product Code']
+
+Lost Table.csv:
+['Unnamed: 0', 'Date', 'Stock Code', 'Lost_Qty', 'Lost_Profit']
+
+Waste Table.csv:
+['Unnamed: 0', 'Date', 'Stock Code', 'Product Code', 'Expired_Qty', 'Waste_Lost_Profit']
+
+Stock Master.csv:
+['Unnamed: 0', 'Stock Code', 'Product Code', 'Manufacturing Date', 'Expiry Date', 'Initial_Qty', 'Remaining_Qty', 'Arrival Date', 'Shelf Life', 'Lead Time']
+
